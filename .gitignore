@@ -12,6 +12,6 @@
 hs_err_pid*
 
 # pluralsights install files.
-*exercise-files.zip
+*.zip
 java-web-fundamentals.zip
 .DS_Store
