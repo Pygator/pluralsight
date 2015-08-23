@@ -26,7 +26,7 @@
 			<plugin>
 				<groupId>org.apache.tomcat.maven</groupId>
 				<artifactId>tomcat7-maven-plugin</artifactId>
-				<version>2.3-SNAPSHOT</version>
+				<version>2.2</version>
                 <configuration>
                     <url>http://localhost:8080/manager/text</url>
                     <username>tomcat-script</username>
@@ -48,6 +48,19 @@
 				<enabled>true</enabled>
 			</snapshots>
 		</pluginRepository>
+
+        <pluginRepository>
+            <id>central</id>
+            <name>Maven Plugin Repository</name>
+            <url>http://repo1.maven.org/maven2</url>
+            <layout>default</layout>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+            <releases>
+                <updatePolicy>never</updatePolicy>
+            </releases>
+        </pluginRepository>
 	</pluginRepositories>
 
 </project>
