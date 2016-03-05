@@ -10,3 +10,6 @@
 \\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\StarterCode\bin\Debug\StarterCode.pdb
 \\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\StarterCode\obj\Debug\StarterCode.exe
 \\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\StarterCode\obj\Debug\StarterCode.pdb
+C:\Users\rick\mygitsrc\pluralsight\IntroVisualStudio2013\C#\StarterCode\bin\Debug\StarterCode.exe.config
+C:\Users\rick\mygitsrc\pluralsight\IntroVisualStudio2013\C#\StarterCode\obj\Debug\StarterCode.exe
+C:\Users\rick\mygitsrc\pluralsight\IntroVisualStudio2013\C#\StarterCode\obj\Debug\StarterCode.pdb
