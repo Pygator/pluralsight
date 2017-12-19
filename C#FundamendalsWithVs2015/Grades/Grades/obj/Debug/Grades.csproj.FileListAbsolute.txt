@@ -1,0 +1,1 @@
+C:\Users\rick\mygitsrc\pluralsight\C#FundamendalsWithVs2015\Grades\Grades\bin\Debug\Grades.exe.config
